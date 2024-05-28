@@ -4,6 +4,7 @@ This project is a comprehensive movie database application that uses SQL for dat
 
 ## Project Structure
 
+```txt
 movie-database-project/
 ├── db/
 │ ├── init.sql
@@ -22,6 +23,7 @@ movie-database-project/
 ├── .env
 ├── README.md
 └── requirements.txt
+```
 
 
 ## Prerequisites
